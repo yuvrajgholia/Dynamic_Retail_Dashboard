@@ -3,5 +3,7 @@
 The Dynamic Retail Dashboard is a dynamic Excel-based tool to analyze and visualize retail data.Using Power Query, Pivot Tables, Slicers, Timelines, it helps identify top-selling categories, monitor profit margins, track returns, solves key business questions and support data-driven decisions across teams.
 # Datasets Used:-
 ## 1.Orders Tables
+<img width="609" alt="image" src="https://github.com/user-attachments/assets/5661bcf8-8945-4dda-8cad-238f755adad8" />
 																						
-																						![image](https://github.com/user-attachments/assets/e2a20d9f-d934-4e5e-a2eb-f4af426ba365)
+																						
+		 
