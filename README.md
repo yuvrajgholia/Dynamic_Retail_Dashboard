@@ -22,9 +22,9 @@ Contains details about sales representatives and their respective regions.
 ### Sample Data:-
 <img width="239" alt="image" src="https://github.com/user-attachments/assets/0ee51b1c-1f1c-475a-b82b-834980d176f1" />
 
-# 🌐 Problem Statements & Steps:-
+#  Problem Statements & Steps:-
 
-## 1. 🎯 Key Performance Indicators (KPIs):-
+## 1. Key Performance Indicators (KPIs):-
 
 ### Goal: Display Total Sales, Total Profit, Total Quantity, Orders, and Profit Margin
 1. Imported data using Power Query.
@@ -53,7 +53,7 @@ KPI values derived from Pivot Table calculations.
 
 Custom KPI Table created using shapes, icons, and Excel formulas.
 
-## 2. 📈 Sales and Profit Trend Analysis:-
+## 2.  Sales and Profit Trend Analysis:-
 
 ### Goal: Identify monthly trends.
 
@@ -61,7 +61,7 @@ Pivot Table with Date grouped by Month/Year
 
 Line chart plotted with slicers (Segment, Category, Region)
 
-# 3. 📦 Category-Wise Profit:-
+# 3.  Category-Wise Profit:-
 
 ### Goal: Visualize profitability across categories.
 
@@ -71,7 +71,7 @@ Sorted and visualized using bar chart
 
 Added slicers for interactivity
 
-# 4. 🌐 Segment-Wise Sales Share:-
+# 4.  Segment-Wise Sales Share:-
 
 ### Goal: Show share (%) for each customer segment
 
@@ -81,7 +81,7 @@ Calculated % contribution
 
 Displayed via Donut Chart with dynamic labels
 
-# 5. 📊 Sales by Country:-
+# 5.  Sales by Country:-
 
 ### Goal: Highlight countries with highest sales
 
@@ -89,7 +89,7 @@ Pivot Table with Country and Sales
 
 Used Conditional Formatting/Heatmap
 
-# 6. 🔹 Top 5 Subcategories:-
+# 6.  Top 5 Subcategories:-
 
 ### Goal: Identify best-performing sub-categories
 
@@ -99,19 +99,19 @@ Sorted and filtered top 5
 
 Visualized via column chart
 
-# 7. 🔻 Bottom 5 Subcategories:-
+# 7.  Bottom 5 Subcategories:-
 
 ### Similar to above but with lowest sales
 
 Displayed via column chart for quick identification
 
-# 8. 📅 Yearly Sales Trend :-
+# 8.  Yearly Sales Trend :-
 
 Line chart showing year-wise performance
 
 Timeline slicer added
 
-# ⚙️ Dynamic Features:-
+#  Dynamic Features:-
 
 Power Query: For data import and transformation
 
@@ -121,7 +121,7 @@ KPI Icons: Unichar function for symbols
 
 Group Shapes: Consistent dashboard layout
 
-# ✨ Additional Insights:-
+# Additional Insights:-
 
 Return Analysis: By market and product category
 
@@ -129,7 +129,7 @@ Product-Level Profitability: Most/least profitable SKUs
 
 Segment/Region Comparisons: With KPIs per dimension
 
-# 🌟 Project Significance:-
+#  Project Significance:-
 
 This dashboard enables Walmart stakeholders to:
 
@@ -139,7 +139,7 @@ Identify trends and performance gaps
 
 Optimize marketing strategies and stock decisions
 
-# 📸 Screenshots Included:-
+#  Screenshots Included:-
 
 KPI Panel
 
@@ -150,7 +150,7 @@ Top & Bottom Subcategories
 Yearly Sales Line Chart
 
 
-# 📚 Future Improvements:-
+#  Future Improvements:-
 
 Add return rates by customer segment
 
